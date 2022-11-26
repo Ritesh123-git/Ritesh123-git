@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Ritesh123-git
+- 👋 Hi, I’m @RiteshKumarDwivedi
 - 👀 I’m interested in competitive programming and in Java Backend Development
 - 🌱 I’m currently learning Java Development 
